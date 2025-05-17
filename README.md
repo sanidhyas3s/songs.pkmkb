@@ -4,12 +4,14 @@ Automatically skips songs by artists whose **YouTube channel** lists **Pakistan*
 
 This extension is intended for users who, due to **ongoing India-Pakistan tensions**, prefer not to engage with content from Pakistani artists.
 
+
 ## ⚙️ Features
 
 - ✅ Works on **YouTube** (soon on YT Music and Spotify)
 - 🌍 Detects artist country from their **channel's About page**
 - 🔁 Automatically skips any video where the uploader is from **Pakistan**
 - 🧠 Caches results to avoid repeat lookups
+
 
 ## 📦 Installation
 
@@ -30,6 +32,7 @@ This extension is intended for users who, due to **ongoing India-Pakistan tensio
 5. You're done ✅ — the extension runs silently in the background on:
    - [YouTube](https://www.youtube.com)
 
+
 ## 🧪 How it works
 
 - When a new video plays, the extension:
@@ -42,9 +45,10 @@ No channel names are hardcoded — the check is based entirely on the **publicly
 
 ## ❗ Note
 
-This extension is **not intended to promote hate**, but instead reflects personal content preferences in the context of the **India–Pakistan conflict**.
+This extension is **not intended to promote hate**, but instead reflects personal (and in-demand) content preferences in the context of the **India–Pakistan conflict**.
 
 You are free to modify or extend this tool to suit your needs.
+
 
 ## 📌 Disclaimer
 
@@ -53,7 +57,6 @@ This is a personal-use extension. It:
 - Does not modify YouTube beyond basic UI automation.
 - Is not affiliated with Google or YouTube in any way.
 
----
 
 ## 📜 License
 
