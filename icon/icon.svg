@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 199.99999"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon128.png"
+   inkscape:export-xdpi="16.256001"
+   inkscape:export-ydpi="16.256001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.99241021"
+     inkscape:cx="392.47883"
+     inkscape:cy="521.96158"
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="-12"
+     inkscape:window-y="1500"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.3330341)"><rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4;fill-opacity:1"
+       id="rect1"
+       width="170.36176"
+       height="170.36176"
+       x="16.152157"
+       y="14.819122"
+       ry="17.180689" /><path
+       id="rect1-8"
+       style="fill:#cd7b06;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4;fill-opacity:1"
+       d="M 39.700718 14.81925 L 186.51398 161.63251 L 186.51398 31.999597 C 186.51398 22.481496 178.85122 14.81925 169.33312 14.81925 L 39.700718 14.81925 z M 16.152285 39.531954 L 16.152285 168.00008 C 16.152285 177.51818 23.81453 185.18094 33.332631 185.18094 L 161.80128 185.18094 L 16.152285 39.531954 z " /><path
+       id="rect1-8-1"
+       style="fill:#046a38;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4"
+       d="M 16.152286,39.531953 V 168.00008 c 0,9.5181 7.662245,17.18086 17.180346,17.18086 H 161.80128 Z"
+       sodipodi:nodetypes="csscc" /></g></svg>
